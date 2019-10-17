@@ -36,4 +36,13 @@ class Song
     end
     unique_artists
   end
+
+  def self.genre_count #Class method
+
+  end
+
+  def self.artist_count #Class method
+
+  end
 end
+  
